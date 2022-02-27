@@ -1,5 +1,3 @@
-# giulia_mixed-messages
-
 Mixed Messages assignment from CodeCademy
 =
 
